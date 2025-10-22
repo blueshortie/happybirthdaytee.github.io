@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy Birthday Thanush!</title>
+    <title>Happy Birthday Tee!</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -332,7 +332,7 @@
     
     <div class="container">
         <header>
-            <h1>Happy Birthday Thanush!</h1>
+            <h1>Happy Birthday Tee!</h1>
             <p class="subtitle">Wishing you the most perfect year with alot of love and success you truely deserve !</p>
         </header>
         
