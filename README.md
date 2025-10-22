@@ -333,7 +333,7 @@
     <div class="container">
         <header>
             <h1>Happy Birthday Thanush!</h1>
-            <p class="subtitle">Wishing you a day filled with joy, laughter, and wonderful moments!</p>
+            <p class="subtitle">Wishing you the most perfect year with alot of love and success you truely deserve !</p>
         </header>
         
         <div class="balloons">
@@ -346,14 +346,14 @@
         
         <div class="birthday-card">
             <div class="message">
-                <p>Dear Thanush,</p>
+                <p>Dear Tee,</p>
                 <br>
-                <p>On your special day, I wanted to create something as unique and wonderful as you are! May this birthday bring you endless happiness, success in all your endeavors, and memories that will last a lifetime.</p>
+                <p>Thank you for being the best friend i have in my life, i owe you alot! You are a queen and you always shall be the most talented person i know. You are never alone, you always got me by your side to support you. Have the happiest year possible. </p>
                 <br>
-                <p>You're an amazing friend, and I'm so grateful to have you in my life. Here's to celebrating you today and always!</p>
+                <p>You're an amazing friend, and I'm so grateful to have you in my life. Stay perfect my highness!! </p>
                 <br>
                 <p>With lots of love and best wishes,</p>
-                <p>Your friend Tee</p>
+                <p>Your short friend blue </p>
             </div>
             
             <div class="cake-container">
@@ -380,7 +380,7 @@
         </div>
         
         <div class="footer">
-            <p>Made with ❤️ for Thanush's special day</p>
+            <p>Made with ❤️ and 1000% effort</p>
         </div>
     </div>
 
